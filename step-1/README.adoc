@@ -11,7 +11,7 @@ To do so, we will use the following libraries.
 1. http://vertx.io/docs/vertx-web/java/[Vert.x web] as while the Vert.x core library _does_ support the creation of HTTP servers, it does not provide elegant APIs to deal with routing, handling of request payloads, etc.
 2. http://vertx.io/docs/vertx-jdbc-client/java/[Vert.x JDBC client] to provide an asynchronous API over JDBC.
 3. http://freemarker.org/[Apache FreeMarker] to render server-side pages as it is an uncomplicated template engine.
-4. https://github.com/rjeschke/txtmark[Txtmark] to render Markdown text to HTML, allowing the edition of wiki pages in Markdown.
+4. https://github.com/rjeschke/txtmark[Txtmark] to render Markdown text to HTML, allowing the addition of wiki pages in Markdown.
 
 == Bootstrapping a Maven project
 
